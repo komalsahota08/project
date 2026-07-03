@@ -13,7 +13,6 @@ if(!isset($_SESSION['id']))
     exit();
 }
 
-
 // get service id
 $service_id = $_GET['id'];
 
